@@ -88,7 +88,8 @@ caras_cubo = [
     [vertices_cubo[3], vertices_cubo[0], vertices_cubo[4], vertices_cubo[7]]
 ]
 
-op = int(input("""1. Prisma triangular
+op = int(input("""Selecciona una figura: 
+1. Prisma triangular
 2. cubo
 3. icosaedro
 """))
